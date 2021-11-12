@@ -1,5 +1,5 @@
-# Implementation of Sustai21@EMNLP21 submission 
-This project contains python implementation for Sustai21 paper, whose title is "Countering the Influence of Essay Length in Neural Essay Scoring".
+# Implementation of Sustai21@EMNLP21 Paper 
+This project contains a python implementation for the Sustai21 paper, whose title is "Countering the Influence of Essay Length in Neural Essay Scoring".
 
 ## Requirements
 
