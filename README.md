@@ -16,7 +16,7 @@ Our environment file is built based on CUDA9 driver and corresponding libraries,
 Dataset and pretrained embedding cannot be attached in the submission due to large size, thus it should be downloaded from the Github of previous work.
 
 - Dataset: The ASAP dataset is available at Kaggle official page in public. Recent neural essay scoring systems discussed in our paper use the 5-fold partition proposed in (Taghipour and Ng, 2016). It should be downloaded from the Github, and the location should be configured in "build_config.py" with "--data_dir" option.
-The TOEFL dataset is available according to the link in the original paper (Blanchard et al. 2013) with LDC license. We will share the index of the CV partition for our TOEFL experiment upon publication.
+The TOEFL dataset is available according to the link in the original paper (Blanchard et al. 2013) with LDC license. 
 
 ASAP CV partition link: https://github.com/nusnlp/nea
 
